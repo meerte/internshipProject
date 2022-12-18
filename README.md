@@ -7,4 +7,4 @@ Employee Tracking System
 * React
 
 ### Database
-PostgreSQL
+* PostgreSQL
